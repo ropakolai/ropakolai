@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ropakolai an upcoming data analyst ready to work !
-- 👀 I’m interested in SQL, Python, R, Tableau, Google Looker, Excel, and moreover, data analytics and visualization !
+- 👀 I’m interested in SQL, Python, R, Tableau, Google Looker Studio, Excel, and moreover, data analytics and visualization !
 - Fun fact about me : I'm half finnish, half german, and I live in France where I was born.
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi,
-- 👀 I’m interested in SQL, Python, R, Tableau, Google Looker Studio, Excel, and moreover, data analytics and visualization !
+- 👀 I love Data Science
 - Fun fact about me : I'm half finnish, half german, and I live in France.
 
 <!---

@@ -1,5 +1,5 @@
-- 👋 Hi,
-- 👀 I love Data Science
+- 👋 Hi there!
+  
 
 <!---
 ropakolai/ropakolai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
